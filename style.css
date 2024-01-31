@@ -1,0 +1,31 @@
+body{
+   
+    color: white;
+    text-align: center;
+   margin: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+#hero{
+    background-image: url("giphy.gif");
+    background-size: cover;
+    padding: 20px 0 400px 0;
+}
+.btn{
+    padding: 5px 10px;
+    background: white;
+    border: none;
+    font-family: inherit;
+}
+.cta{
+    border-bottom: 5px solid white;
+}
+#logo{
+    width: 150px;
+}
+#title{
+    text-shadow: 5px 5px 5px rgb(71, 66, 118);
+}
+h3{
+    font-family: inherit;
+    color: rgb(43, 69, 80);
+}
